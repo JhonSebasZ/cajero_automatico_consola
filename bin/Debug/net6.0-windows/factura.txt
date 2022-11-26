@@ -1,0 +1,10 @@
+------------FACTURA------------
+
+_________________________________
+Fecha                 27/05/2022
+Hora                  7:09 p. m.
+_________________________________
+Cuenta Origen         97259657
+Cuenta Destino        23456897
+Tipo Operacion        Trasferencia
+Monto                 500000

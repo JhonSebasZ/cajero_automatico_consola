@@ -1,0 +1,38 @@
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.exe
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.deps.json
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.runtimeconfig.json
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.dll
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.pdb
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.dll
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\refint\CajeroAutomatico.dll
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.pdb
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.genruntimeconfig.cache
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\ref\CajeroAutomatico.dll
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.Inicio.resources
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.Properties.Resources.resources
+C:\Users\usuario\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.Autentificacion.resources
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.exe
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.deps.json
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.runtimeconfig.json
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.dll
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0-windows\CajeroAutomatico.pdb
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.Autentificacion.resources
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.Inicio.resources
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.Properties.Resources.resources
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.dll
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\refint\CajeroAutomatico.dll
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.pdb
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\CajeroAutomatico.genruntimeconfig.cache
+C:\Users\usuario\Documents\UNAD\CUARTO SEMESTRE\Programacion\Etapa 5\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0-windows\ref\CajeroAutomatico.dll
